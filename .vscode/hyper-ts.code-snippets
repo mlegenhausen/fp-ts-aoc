@@ -1,0 +1,6 @@
+{
+  "Hyper": {
+    "prefix": "H",
+    "body": "import * as H from 'hyper-ts'"
+  }
+}

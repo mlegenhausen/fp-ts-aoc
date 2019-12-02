@@ -1,0 +1,22 @@
+{
+  "Import": {
+    "prefix": "io-ts",
+    "description": "Import io-ts",
+    "body": [
+      "import * as t from 'io-ts'"
+    ]
+  },
+  "Interface": {
+    "prefix": "t-interface",
+    "description": "Create a new interface with type export",
+    "body": [
+      "export const $1 = t.interface(",
+      "  {",
+      "    $2",
+      "  },",
+      "  '$1'",
+      ")",
+      "export interface $1 extends t.TypeOf<typeof $1> {}"
+    ]
+  }
+}

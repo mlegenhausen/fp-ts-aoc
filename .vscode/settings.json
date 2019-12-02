@@ -1,0 +1,21 @@
+{
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true
+  },
+  "eslint.autoFixOnSave": true,
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact",
+    { "language": "typescript", "autoFix": true },
+    { "language": "typescriptreact", "autoFix": true }
+  ],
+  "rest-client.defaultHeaders": {
+    "Content-Type": "application/json",
+    "User-Agent": "vscode-restclient",
+    "x-tp-oidc-auth": "1",
+    "x-tp-application-code": "tpapp:bimapp:development:hG/lo7KgSLQR5u9sVGfAiU7HSz0",
+    "Accept-Encoding": "gzip"
+  },
+  "stylelint.autoFixOnSave": true,
+  "workbench.colorCustomizations": {}
+}

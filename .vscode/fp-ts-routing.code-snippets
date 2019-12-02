@@ -1,0 +1,12 @@
+{
+  "Route": {
+    "prefix": "parser",
+    "body": [
+      "const $1 = pipe(",
+      "  R.lit('$2'),",
+      "  R.then(R.end)",
+      ")"
+    ],
+    "description": "Create a new route parser"
+  }
+}

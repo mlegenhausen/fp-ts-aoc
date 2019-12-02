@@ -1,0 +1,16 @@
+{
+  "Wave": {
+    "prefix": "W",
+    "body": [
+      "import * as W from 'waveguide/lib/wave'"
+    ],
+    "description": "Add waveguide Wave import"
+  },
+  "WaveR": {
+    "prefix": "WR",
+    "body": [
+      "import * as WR from 'waveguide/lib/waver'"
+    ],
+    "description": "Add waveguide WaveR import"
+  }
+}

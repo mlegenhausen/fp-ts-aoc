@@ -1,0 +1,9 @@
+{
+  "Rx": {
+    "prefix": "Rx",
+    "description": "Add rxjs operators import",
+    "body": [
+      "import * as Rx from 'rxjs/operators'"
+    ]
+  }
+}

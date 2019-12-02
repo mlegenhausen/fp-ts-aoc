@@ -1,0 +1,83 @@
+{
+  "Array": {
+    "prefix": "A",
+    "body": [
+      "import * as A from 'fp-ts/lib/Array'"
+    ],
+    "description": "Add fp-ts Array import"
+  },
+  "Date": {
+    "prefix": "Date",
+    "body": [
+      "import * as Date from 'fp-ts/lib/Date'"
+    ]
+  },
+  "IO": {
+    "prefix": "IO",
+    "body": [
+      "import * as IO from 'fp-ts/lib/IO'"
+    ]
+  },
+  "IOEither": {
+    "prefix": "IOE",
+    "body": [
+      "import * as IOE from 'fp-ts/lib/IOEither'"
+    ]
+  },
+  "Option": {
+    "prefix": "O",
+    "body": [
+      "import * as O from 'fp-ts/lib/Option'"
+    ],
+    "description": "Add fp-ts Option import"
+  },
+  "Either": {
+    "prefix": "E",
+    "body": [
+      "import * as E from 'fp-ts/lib/Either'"
+    ],
+    "description": "Add fp-ts Either import"
+  },
+  "Record": {
+    "prefix": "R",
+    "body": [
+      "import * as R from 'fp-ts/lib/Record'"
+    ],
+    "description": "Add fp-ts Record import"
+  },
+  "Reader": {
+    "prefix": "Rr",
+    "body": [
+      "import * as Rr from 'fp-ts/lib/Reader'"
+    ],
+    "description": "Add fp-ts Reader import"
+  },
+  "Set": {
+    "prefix": "S",
+    "body": [
+      "import * as S from 'fp-ts/lib/Set'"
+    ],
+    "description": "Add fp-ts Set import"
+  },
+  "Task": {
+    "prefix": "T",
+    "body": [
+      "import * as T from 'fp-ts/lib/Task'"
+    ],
+    "description": "Add fp-ts Task import"
+  },
+  "TaskEither": {
+    "prefix": "TE",
+    "body": [
+      "import * as TE from 'fp-ts/lib/TaskEither'"
+    ],
+    "description": "Add fp-ts TaskEither import"
+  },
+  "ReaderTaskEither": {
+    "prefix": "RTE",
+    "body": [
+      "import * as RTE from 'fp-ts/lib/ReaderTaskEither'"
+    ],
+    "description": "Add fp-ts ReaderTaskEither import"
+  }
+}
