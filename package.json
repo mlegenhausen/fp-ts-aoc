@@ -19,7 +19,7 @@
   "scripts": {
     "lint": "eslint --ext .ts,.tsx src",
     "lint:fix": "eslint --ext .ts,.tsx --fix src",
-    "1": "ts-node src/1.ts",
-    "2": "ts-node src/2.ts"
+    "1": "ts-node src/1b.ts",
+    "2": "ts-node src/2b.ts"
   }
 }
