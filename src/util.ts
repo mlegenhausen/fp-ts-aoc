@@ -50,3 +50,8 @@ export function program(te: TE.TaskEither<AppError, unknown>): TE.TaskEither<nev
     )
   )
 }
+
+export function spy<A>(a: A): A {
+  console.log(a)()
+  return a
+}
