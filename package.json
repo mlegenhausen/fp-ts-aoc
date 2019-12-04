@@ -21,6 +21,7 @@
     "lint:fix": "eslint --ext .ts,.tsx --fix src",
     "1": "ts-node src/1b.ts",
     "2": "ts-node src/2b.ts",
-    "3": "ts-node src/3b.ts"
+    "3": "ts-node src/3b.ts",
+    "4": "ts-node src/4b.ts"
   }
 }
